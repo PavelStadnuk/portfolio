@@ -1,0 +1,29 @@
+.me {
+	margin-top: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	h1 {
+		span {
+			background: linear-gradient(
+				90deg,
+				rgba(19, 176, 245, 1) 3%,
+				rgba(231, 15, 170, 1) 100%
+			);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			background-clip: text;
+			text-fill-color: transparent;
+		}
+	}
+	.mePhoto {
+		width: 349px;
+		height: 349px;
+		border: 5px solid rgb(19, 176, 245);
+		border-radius: 50%;
+		img {
+			width: 100%;
+			height: 100%;
+		}
+	}
+}

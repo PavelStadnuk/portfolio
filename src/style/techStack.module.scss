@@ -1,0 +1,10 @@
+.techStack {
+	margin-top: 100px;
+	text-align: center;
+	.stack {
+		margin-top: 40px;
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+}
