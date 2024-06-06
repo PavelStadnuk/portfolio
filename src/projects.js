@@ -8,27 +8,27 @@ const Projects = () => {
 	const mas = [
 		{
 			photo: projectPizza,
-			name: 'Project Tile goes here',
+			name: 'Pizza',
 			description:
-				'This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content',
+				'Pizza — це сучасний веб-додаток для замовлення піци.Користувачі можуть переглядати різноманітні види піци, додавати обрані варіанти до кошика, налаштовувати кількість та розмір піци.',
 			TechStack: 'HTML , JavaScript, SASS, React',
 			linkGithub: 'https://github.com/PavelStadnuk/React_Pizza',
 			linkS: 'https://pavelstadnuk.github.io/React_Pizza/',
 		},
 		{
 			photo: projectFood,
-			name: 'Project Tile goes here',
+			name: 'Online-store_Food_delivery',
 			description:
-				'This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content',
+				'На сайті ви можете обрати будь-яку страву для зручнішого пошуку реалізлвано сортування по категоріям  при натисканні на страву ви можете дізнатися її склад також реалізовано оформлення замовлення',
 			TechStack: 'HTML , JavaScript, SASS, React',
 			linkGithub: 'https://github.com/PavelStadnuk/React_Pizza',
 			linkS: 'https://pavelstadnuk.github.io/Online-store_Food_delivery/',
 		},
 		{
 			photo: projectClock,
-			name: 'Project Tile goes here',
+			name: 'Online_Store_Of_Clocks',
 			description:
-				'This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content',
+				'це інтернет-магазин, спеціалізований на продажі годиників. Користувачі можуть переглядати асортимент товарів , додавати їх у кошик також реалізовано пошук сортування та фільтрація товару.',
 			TechStack: 'HTML , JavaScript, SASS, React',
 			linkGithub: 'https://github.com/PavelStadnuk/Online_Store_Of_Clocks',
 			linkS: 'https://pavelstadnuk.github.io/Online_Store_Of_Clocks/',
